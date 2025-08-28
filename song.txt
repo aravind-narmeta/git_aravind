@@ -17,7 +17,6 @@ jklm
 
 mnop
 git pull
-git push
-git pussh
+
 
 
